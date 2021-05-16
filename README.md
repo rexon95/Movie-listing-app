@@ -4,4 +4,4 @@ This app allows the user to make a list of his favorite movies as well has displ
 user is also able to filter the list by movie name.
 
 Packages used :
-React, react-redux,redux
+React, react-redux, redux, bootstrap
