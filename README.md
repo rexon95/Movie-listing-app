@@ -5,3 +5,6 @@ user is also able to filter the list by movie name.
 
 Packages used :
 React, react-redux, redux, bootstrap
+
+# Demo 
+https://movie-listing-app.herokuapp.com/
